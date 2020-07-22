@@ -1,4 +1,7 @@
 # INVIDIO.CLI
+
+MOVED TO GITLAB (https://gitlab.com/seepiol/partymanager) 
+
 A really bad [invidious](https://invidio.us) CLI "client"
 
 ## Instances
